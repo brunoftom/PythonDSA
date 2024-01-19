@@ -1,4 +1,4 @@
-import math
+#Calculadora com apenas 2 numeros e operações basicas
 
 def soma(nro1, nro2):
     resultado = nro1 + nro2
